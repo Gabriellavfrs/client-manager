@@ -1,4 +1,4 @@
-# client-manager
+# Client Manager
 
 ## Description
 

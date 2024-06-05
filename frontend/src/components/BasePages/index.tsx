@@ -2,7 +2,6 @@ import {
   Content,
   Header,
   Icon,
-  Logo,
   Main,
   MainContent,
   Title,
@@ -16,9 +15,7 @@ type PropsType = {
 export const BasePages = ({ children }: PropsType) => {
   return (
     <>
-      <Header>
-        <Logo src="./uol-logo.svg" />
-      </Header>
+      <Header></Header>
       <Main>
         <MainContent>
           <TitleContainer>

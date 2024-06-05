@@ -9,10 +9,6 @@ export const Header = styled.header`
   align-items: center;
 `;
 
-export const Logo = styled.img`
-  height: 40px;
-`;
-
 export const Main = styled.main`
   display: flex;
   flex-direction: column;
